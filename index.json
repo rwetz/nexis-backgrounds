@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "backgrounds": [
+    {
+      "id": "red-circle",
+      "name": "The Red Circle",
+      "version": "1.0.0",
+      "collection": "Rites & Thresholds",
+      "description": "Standing stones, a burning heptagram, hooded watchers",
+      "kind": "video",
+      "path": "backgrounds/red-circle/1.0.0",
+      "bytes": 11213618,
+      "sha256": "c03931b685058a651caaae348a45a2ccd23a1a987343557fc85b2540a987fd5d"
+    },
+    {
+      "id": "witch-hollow",
+      "name": "Witch Hollow",
+      "version": "1.0.0",
+      "collection": "Rites & Thresholds",
+      "description": "A cauldron, wicker effigies, a gourd patch",
+      "kind": "video",
+      "path": "backgrounds/witch-hollow/1.0.0",
+      "bytes": 9901904,
+      "sha256": "6fe73a7d9d1f713da233518c69869d8b40f90e4d841f2b4b25130bd1ad7def5a"
+    },
+    {
+      "id": "crossroads",
+      "name": "Crossroads",
+      "version": "1.0.0",
+      "collection": "Rites & Thresholds",
+      "description": "A gibbet, a shrine, a black hound waiting",
+      "kind": "video",
+      "path": "backgrounds/crossroads/1.0.0",
+      "bytes": 11879433,
+      "sha256": "dc596fa7b8a92598c7df53ef9fc0feea0ebe8d8fb141f1083ee3c210f438a5d6"
+    },
+    {
+      "id": "fairy-ring",
+      "name": "Fairy Ring",
+      "version": "1.0.0",
+      "collection": "Rites & Thresholds",
+      "description": "A hollow tree, luminous mushrooms, pale dancers",
+      "kind": "video",
+      "path": "backgrounds/fairy-ring/1.0.0",
+      "bytes": 11087628,
+      "sha256": "ddf2e22d81225db6e6ed90d799d2565aceb104125a10080b26022acdd6b6503b"
+    },
+    {
+      "id": "fox-gates",
+      "name": "Fox Gates",
+      "version": "1.0.0",
+      "collection": "Rites & Thresholds",
+      "description": "A stair of red gates, foxfire, foxes made of light",
+      "kind": "video",
+      "path": "backgrounds/fox-gates/1.0.0",
+      "bytes": 12118192,
+      "sha256": "764466534b6be4258ffe7149039deb494e8ebc2b0c27896a533f7f4cb28e7099"
+    },
+    {
+      "id": "ossuary-hill",
+      "name": "Ossuary Hill",
+      "version": "1.0.0",
+      "collection": "Graves & Barrows",
+      "description": "A crooked graveyard, a violet mausoleum, crows",
+      "kind": "video",
+      "path": "backgrounds/ossuary-hill/1.0.0",
+      "bytes": 10619677,
+      "sha256": "e6ba72f06413afae6dc74acaee1f82d8ca68ebf7b2223182b8bab0f135135c03"
+    },
+    {
+      "id": "winter-barrow",
+      "name": "Winter Barrow",
+      "version": "1.0.0",
+      "collection": "Graves & Barrows",
+      "description": "A lit burial mound, runestones, wolves",
+      "kind": "video",
+      "path": "backgrounds/winter-barrow/1.0.0",
+      "bytes": 12411769,
+      "sha256": "9931abcdac6bbfb86bec181e4c1787310fbe86be8cac09f2528c7fb7c8ad1343"
+    },
+    {
+      "id": "black-abbey",
+      "name": "Black Abbey",
+      "version": "1.0.0",
+      "collection": "Graves & Barrows",
+      "description": "A roofless nave, a green rose window, a file of monks",
+      "kind": "video",
+      "path": "backgrounds/black-abbey/1.0.0",
+      "bytes": 10341528,
+      "sha256": "efe5bae28341d754b3b9afdab3d8a8eed245cf6ab96c09da832fd46d9e6a4b04"
+    },
+    {
+      "id": "wisp-fen",
+      "name": "Wisp Fen",
+      "version": "1.0.0",
+      "collection": "Drowned Places",
+      "description": "A drowned chapel, will-o’-wisps, a pale walker",
+      "kind": "video",
+      "path": "backgrounds/wisp-fen/1.0.0",
+      "bytes": 22672919,
+      "sha256": "4a1ce4ab8f397edc45e85b1099085828533e028a4255e33e7ac1b4f8c85223ad"
+    },
+    {
+      "id": "drowned-light",
+      "name": "Drowned Light",
+      "version": "1.0.0",
+      "collection": "Drowned Places",
+      "description": "A dead lighthouse, a wreck in the surf",
+      "kind": "video",
+      "path": "backgrounds/drowned-light/1.0.0",
+      "bytes": 13478315,
+      "sha256": "c6874c9d99fc0b699aef8b2a85ac0b454239a2e80d483d32e591e41e2ce7ae5a"
+    },
+    {
+      "id": "sunken-idol",
+      "name": "Sunken Idol",
+      "version": "1.0.0",
+      "collection": "Drowned Places",
+      "description": "A drowned stone face, tentacles, cultist boats",
+      "kind": "video",
+      "path": "backgrounds/sunken-idol/1.0.0",
+      "bytes": 8101830,
+      "sha256": "63b30e9d19a4fc2a31e6e7f42a84812e505abf1fb0eb044f131909afeaac4c8e"
+    },
+    {
+      "id": "fallen-star",
+      "name": "Fallen Star",
+      "version": "1.0.0",
+      "collection": "Visitations",
+      "description": "A crater, flattened pines, green shards, a kneeling ring",
+      "kind": "video",
+      "path": "backgrounds/fallen-star/1.0.0",
+      "bytes": 9383157,
+      "sha256": "cecceca1ff77ef8c5c8ab4e46a310585b5b67e18c31d1996ccc39a6059ce014f"
+    },
+    {
+      "id": "plague-pyre",
+      "name": "Plague Pyre",
+      "version": "1.0.0",
+      "collection": "Visitations",
+      "description": "A shuttered square, beak-masked doctors, a cart of the dead",
+      "kind": "video",
+      "path": "backgrounds/plague-pyre/1.0.0",
+      "bytes": 9578721,
+      "sha256": "5d7dacdde445d3409f4f952120f9a91a8974bbc98ca1b4bf2b77dc79c8cac955"
+    },
+    {
+      "id": "hepta-monolith",
+      "name": "Heptagram Monolith",
+      "version": "1.0.0",
+      "collection": "Heptagram",
+      "description": "A frost slab in a black lake, seven keepers",
+      "kind": "video",
+      "path": "backgrounds/hepta-monolith/1.0.0",
+      "bytes": 9141735,
+      "sha256": "c6102fd7b3cf2979da80478638a1815ab4415630e02f024379af7662025dea73"
+    },
+    {
+      "id": "hepta-sigil",
+      "name": "Heptagram Sigil",
+      "version": "1.0.0",
+      "collection": "Heptagram",
+      "description": "A coral seal on an obsidian plaza",
+      "kind": "video",
+      "path": "backgrounds/hepta-sigil/1.0.0",
+      "bytes": 9319472,
+      "sha256": "98a34235c2bc3d90f7f6421bab438c38059e70568539b269e775fc1db58b128e"
+    }
+  ]
+}

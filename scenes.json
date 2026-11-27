@@ -1,0 +1,116 @@
+{
+  "collections": [
+    {
+      "id": "rites",
+      "title": "Rites & Thresholds",
+      "blurb": "Places where something is summoned, bargained with or danced for.",
+      "scenes": [
+        {
+          "id": "red-circle",
+          "title": "The Red Circle",
+          "blurb": "Standing stones, a burning heptagram, hooded watchers"
+        },
+        {
+          "id": "witch-hollow",
+          "title": "Witch Hollow",
+          "blurb": "A cauldron, wicker effigies, a gourd patch"
+        },
+        {
+          "id": "crossroads",
+          "title": "Crossroads",
+          "blurb": "A gibbet, a shrine, a black hound waiting"
+        },
+        {
+          "id": "fairy-ring",
+          "title": "Fairy Ring",
+          "blurb": "A hollow tree, luminous mushrooms, pale dancers"
+        },
+        {
+          "id": "fox-gates",
+          "title": "Fox Gates",
+          "blurb": "A stair of red gates, foxfire, foxes made of light"
+        }
+      ]
+    },
+    {
+      "id": "graves",
+      "title": "Graves & Barrows",
+      "blurb": "The dead, kept and not quite resting.",
+      "scenes": [
+        {
+          "id": "ossuary-hill",
+          "title": "Ossuary Hill",
+          "blurb": "A crooked graveyard, a violet mausoleum, crows"
+        },
+        {
+          "id": "winter-barrow",
+          "title": "Winter Barrow",
+          "blurb": "A lit burial mound, runestones, wolves"
+        },
+        {
+          "id": "black-abbey",
+          "title": "Black Abbey",
+          "blurb": "A roofless nave, a green rose window, a file of monks"
+        }
+      ]
+    },
+    {
+      "id": "drowned",
+      "title": "Drowned Places",
+      "blurb": "Black water and what it hides.",
+      "scenes": [
+        {
+          "id": "wisp-fen",
+          "title": "Wisp Fen",
+          "blurb": "A drowned chapel, will-o’-wisps, a pale walker"
+        },
+        {
+          "id": "drowned-light",
+          "title": "Drowned Light",
+          "blurb": "A dead lighthouse, a wreck in the surf"
+        },
+        {
+          "id": "sunken-idol",
+          "title": "Sunken Idol",
+          "blurb": "A drowned stone face, tentacles, cultist boats"
+        }
+      ]
+    },
+    {
+      "id": "visitations",
+      "title": "Visitations",
+      "blurb": "Something arrived, and the living gathered round it.",
+      "scenes": [
+        {
+          "id": "fallen-star",
+          "title": "Fallen Star",
+          "blurb": "A crater, flattened pines, green shards, a kneeling ring"
+        },
+        {
+          "id": "plague-pyre",
+          "title": "Plague Pyre",
+          "blurb": "A shuttered square, beak-masked doctors, a cart of the dead"
+        }
+      ]
+    },
+    {
+      "id": "heptagram",
+      "title": "Heptagram",
+      "blurb": "The Nexis mark as a place.",
+      "scenes": [
+        {
+          "id": "hepta-monolith",
+          "title": "Heptagram Monolith",
+          "blurb": "A frost slab in a black lake, seven keepers",
+          "phone": true
+        },
+        {
+          "id": "hepta-sigil",
+          "title": "Heptagram Sigil",
+          "blurb": "A coral seal on an obsidian plaza",
+          "phone": true
+        }
+      ]
+    }
+  ]
+}
