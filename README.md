@@ -59,7 +59,7 @@ so the checksum in the index always describes the file at that path.
   "backgrounds": [
     { "id": "wisp-fen", "name": "Wisp Fen", "version": "1.0.0", "collection": "Drowned Places",
       "description": "…", "kind": "video", "path": "backgrounds/wisp-fen/1.0.0",
-      "bytes": 17563696, "sha256": "…" }
+      "bytes": 22672919, "sha256": "…" }
   ]
 }
 ```
